@@ -2,7 +2,7 @@
 
 ## I'm a Competitive Programmer and a Data Science Enthusiast!
 - 🔭 I’m currently learning advanced Data Structures and Algorithms!
-- 🌱 I’m currently pursuing an online course on Machine Learning by Andrew NG from Cousera
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking forward to become a Software Engineer
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch anime
