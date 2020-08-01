@@ -33,6 +33,12 @@
 <br />
 
 [android]: https://github.com/raihankhan?tab=repositories
+[cpp]: https://github.com/raihankhan?tab=repositories
+[python]: https://github.com/raihankhan?tab=repositories
+[firebase]: https://github.com/raihankhan?tab=repositories
+[mysql]: https://github.com/raihankhan?tab=repositories
+[github]: https://github.com/raihankhan?tab=repositories
+[web]: https://github.com/raihankhan?tab=repositories
 [website]: https://codeforces.com/profile/Escanor
 [instagram]: https://www.instagram.com/raihan_khan_raka
 [linkedin]: https://www.linkedin.com/in/raihan-khan-raka
