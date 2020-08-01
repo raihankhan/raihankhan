@@ -31,8 +31,6 @@
 
 <br />
 
-<img align="left" alt="raihankhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=raihankhan&show_icons=true&hide_border=true" />
-
 [website]: https://codeforces.com/profile/Escanor
 [instagram]: https://www.instagram.com/raihan_khan_raka
 [linkedin]: https://www.linkedin.com/in/raihan-khan-raka
