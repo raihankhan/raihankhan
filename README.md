@@ -1,8 +1,7 @@
 ### Hi there, I'm Raihan - aka [Escanor][website] 👋
 
 ## I'm a Competitive Programmer and a Data Science Enthusiast!
-- 🔭 I’m currently learning advanced Data Structures and Algorithms!
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently focusing on advanced Data Structures and Algorithms!
 - 👯 I’m looking forward to become a Software Engineer
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch anime
