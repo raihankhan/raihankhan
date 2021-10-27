@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Raihan ☕
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&lines=HI+there%2C;I'm+Raihan+!)](https://git.io/typing-svg) ☕
 
 - 🔭 I’m currently I’m currently learning Kubernetes, Docker and related technologies
 - 🌱 looking forward to become a good Software Engineer
