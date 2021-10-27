@@ -27,10 +27,10 @@
 
 <p>
     <a align="left" href="https://github.com/raihankhan?tab=repositories">
-        <img alt="Top Langs"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihankhan&layout=compact">
+        <img alt="Top Langs"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihankhan&count_private=true&theme=radical">
     </a>
     <a align="right" href="https://github.com/raihankhan?tab=repositories">
-        <img alt="Raihan's GitHub stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=raihankhan&show_icons=true&theme=vue">
+        <img alt="Raihan's GitHub stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=raihankhan&show_icons=true&theme=radical">
     </a>
 </p>
 
