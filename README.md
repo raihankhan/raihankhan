@@ -38,29 +38,29 @@
     </a>
 </p>
 
-
+https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 
 ### Connect with me:
 
-[<img align="left"  width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codeforces-512.png" />][website]
-[<img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="center">
+    
+    ### Connect with me:
+    <br>
+    <a href="https://raihankhan.github.io/">
+        <img alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/raihan-khan-raka">
+        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+     <a href="https://codeforces.com/profile/Escanor">
+        <img alt="codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+    </a>
+    <br>
+    <a href="https://leetcode.com/raihan_khan/">
+        <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+    </a>
+    <a href="https://www.hackerrank.com/raihankhanraka">
+        <img  alt="visitors" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+    </a>
+</p>
 
-<br />
-
-<br />
-<br />
-
-[android]: https://github.com/raihankhan?tab=repositories
-[cpp]: https://github.com/raihankhan?tab=repositories
-[python]: https://github.com/raihankhan?tab=repositories
-[firebase]: https://github.com/raihankhan?tab=repositories
-[mysql]: https://github.com/raihankhan?tab=repositories
-[github]: https://github.com/raihankhan?tab=repositories
-[web]: https://github.com/raihankhan?tab=repositories
-[website]: https://codeforces.com/profile/Escanor
-[instagram]: https://www.instagram.com/raihan_khan_raka
-[linkedin]: https://www.linkedin.com/in/raihan-khan-raka
-[facebook]: https://www.facebook.com/raihankhanraka
-[hackerrank]: https://www.hackerrank.com/raihankhanraka
