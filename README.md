@@ -28,7 +28,7 @@
 
 <p>
     <a align="left" href="https://github.com/raihankhan?tab=repositories">
-        <img alt="Top Langs"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihankhan&count_private=true&theme=cobalt&layout=compact&langs_count=8">
+        <img alt="Top Langs"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihankhan&count_private=true&theme=cobalt&layout=compact&langs_count=10">
     </a>
     <a align="right" href="https://github.com/raihankhan?tab=repositories">
         <img alt="Raihan's GitHub stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=raihankhan&show_icons=true&theme=cobalt">
