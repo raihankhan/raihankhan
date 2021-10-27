@@ -38,14 +38,10 @@
     </a>
 </p>
 
-https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 
 ### Connect with me:
 
 <p align="center">
-    
-    ### Connect with me:
-    <br>
     <a href="https://raihankhan.github.io/">
         <img alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
     </a>
