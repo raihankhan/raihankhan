@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Raihan - aka [Escanor][website] 👋
+### Hi there, I'm Raihan ☕
 
 - 🔭 I’m currently I’m currently learning Kubernetes, Docker and related technologies
 - 🌱 looking forward to become a good Software Engineer
