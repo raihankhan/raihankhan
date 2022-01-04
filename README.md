@@ -1,9 +1,11 @@
 
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Raihan!)](https://git.io/typing-svg)
-- 🔭 currently learning Kubernetes, Docker and related technologies
+   
+- :computer: Currently working with Elasticsearch and Go
+- 🔭 Traversing Kubernetes, Docker and related technologies
 - 🌱 looking forward to become a good Software Engineer
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: shoot an email at "raihankhanraka@gmail.com"
 - ⚡ Fun fact: I love to watch anime
 
