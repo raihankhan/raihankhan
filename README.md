@@ -49,7 +49,7 @@
     <a href="https://www.linkedin.com/in/raihan-khan-raka">
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-     <a href="https://codeforces.com/profile/Escanor">
+     <a href="https://codeforces.com/profile/Segmented">
         <img alt="codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
     </a>
     <br>
