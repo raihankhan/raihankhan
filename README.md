@@ -9,7 +9,7 @@
 - 📫 How to reach me: shoot an email at "raihankhanraka@gmail.com"
 - ⚡ Fun fact: I love to watch anime
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/raihankhan/">
         <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
     </a>
