@@ -10,7 +10,16 @@
 - ⚡ Fun fact: I love to watch anime
 
 
-<p align="center">
+### Stats
+
+<p>
+    <a align="right" href="https://github.com/raihankhan?tab=repositories">
+        <img alt="Raihan's GitHub stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=raihankhan&show_icons=true&theme=cobalt">
+    </a>
+</p>
+
+
+<p align="left">
     <a href="https://github.com/raihankhan/">
         <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
     </a>
@@ -33,14 +42,6 @@
     </a>
     <a href="https://github.com/ellerbrock/open-source-badges/">
         <img  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=raihankhan.raihankhan" />
-    </a>
-</p>
-
-### Stats
-
-<p>
-    <a align="right" href="https://github.com/raihankhan?tab=repositories">
-        <img alt="Raihan's GitHub stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=raihankhan&show_icons=true&theme=cobalt">
     </a>
 </p>
 
