@@ -48,7 +48,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 
-<p align="center">
+<p align="left">
     <a href="https://raihankhan.github.io/">
         <img alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
     </a>
