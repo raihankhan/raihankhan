@@ -22,27 +22,27 @@
 
 <p align="left">
     <a href="https://github.com/raihankhan/">
-        <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+        <img width=10% alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
     </a>
     <a href="https://github.com/raihankhan/">
-        <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+        <img width=10% alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
     </a>
      <a href="https://github.com/raihankhan/">
-        <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img width=10% alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     </a>
     <br>
     <a href="https://github.com/raihankhan/">
-        <img alt="Elasticsearch" src="https://badges.aleen42.com/src/elasticsearch.svg" />
+        <img width=10% alt="Elasticsearch" src="https://badges.aleen42.com/src/elasticsearch.svg" />
     </a>
     <a href="https://github.com/raihankhan/">
-        <img  alt="Kibana" src="https://badges.aleen42.com/src/kibana.svg" />
+        <img width=10% alt="Kibana" src="https://badges.aleen42.com/src/kibana.svg" />
     </a>
     <br>
     <a href="https://visitor-badge.laobi.icu/">
-        <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
+        <img width=10% alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
     </a>
     <a href="https://github.com/ellerbrock/open-source-badges/">
-        <img  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=raihankhan.raihankhan" />
+        <img width=10% alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=raihankhan.raihankhan" />
     </a>
 </p>
 
