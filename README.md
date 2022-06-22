@@ -9,6 +9,12 @@
 - 📫 How to reach me: shoot an email at "raihankhanraka@gmail.com"
 - ⚡ Fun fact: I love to watch anime
 
+ <a href="https://github.com/ellerbrock/open-source-badges/">
+        <img width=7% height=15 alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=raihankhan.raihankhan" />
+ </a>
+  <a href="https://visitor-badge.laobi.icu/">
+        <img width=7% height=15 alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
+ </a>
 
 ### Stats
 
@@ -16,33 +22,31 @@
     <a align="right" href="https://github.com/raihankhan?tab=repositories">
         <img alt="Raihan's GitHub stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=raihankhan&show_icons=true&theme=cobalt">
     </a>
+   <a align="right" href="https://github.com/raihankhan?tab=repositories">
+      <img alt="Raihan's GitHub stats"  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raihankhan&theme=dark">
+   </a>
+ 
+   
 </p>
 
 <h3 align="left">Languages & Tools:</h3> 
 
 <p align="left">
     <a href="https://github.com/raihankhan/">
-        <img width=10% alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+        <img width=7% height=30 alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
     </a>
     <a href="https://github.com/raihankhan/">
-        <img width=10% alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+        <img width=7% height=30 alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
     </a>
      <a href="https://github.com/raihankhan/">
-        <img width=10% alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img width=7% height=30 alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     </a>
     <br>
     <a href="https://github.com/raihankhan/">
-        <img width=10% alt="Elasticsearch" src="https://badges.aleen42.com/src/elasticsearch.svg" />
+        <img width=7% height=20 alt="Elasticsearch" src="https://badges.aleen42.com/src/elasticsearch.svg" />
     </a>
     <a href="https://github.com/raihankhan/">
-        <img width=10% alt="Kibana" src="https://badges.aleen42.com/src/kibana.svg" />
-    </a>
-    <br>
-    <a href="https://visitor-badge.laobi.icu/">
-        <img width=10% alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
-    </a>
-    <a href="https://github.com/ellerbrock/open-source-badges/">
-        <img width=10% alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=raihankhan.raihankhan" />
+        <img width=7% height=20 alt="Kibana" src="https://badges.aleen42.com/src/kibana.svg" />
     </a>
 </p>
 
