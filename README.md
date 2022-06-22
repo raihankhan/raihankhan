@@ -19,11 +19,11 @@
 ### Stats
 
 <p>
-    <a align="right" href="https://github.com/raihankhan?tab=repositories">
-        <img alt="Raihan's GitHub stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=raihankhan&show_icons=true&theme=cobalt">
+    <a href="https://github.com/raihankhan?tab=repositories">
+        <img alt="Raihan's GitHub stats"  width="49%" src="https://github-readme-stats.vercel.app/api?username=raihankhan&show_icons=true&theme=cobalt">
     </a>
-   <a align="right" href="https://github.com/raihankhan?tab=repositories">
-      <img alt="Raihan's GitHub stats"  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raihankhan&theme=dark">
+   <a  href="https://github.com/raihankhan?tab=repositories">
+      <img alt="Raihan's GitHub stats"  width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raihankhan&theme=dark">
    </a>
  
    
