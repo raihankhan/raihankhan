@@ -10,10 +10,10 @@
 - ⚡ Fun fact: I love to watch anime
 
  <a href="https://github.com/ellerbrock/open-source-badges/">
-        <img width=7% height=15 alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=raihankhan.raihankhan" />
+        <img width=9% height=17 alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=raihankhan.raihankhan" />
  </a>
   <a href="https://visitor-badge.laobi.icu/">
-        <img width=7% height=15 alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
+        <img width=9% height=17 alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
  </a>
 
 ### Stats
