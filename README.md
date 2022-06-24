@@ -2,12 +2,12 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Raihan!)](https://git.io/typing-svg)
    
-- :computer: Currently working with Elasticsearch, Opensearch and Go
+- :computer: Currently working with Golang, Elasticsearch, Opensearch and Go
 - 🔭 Traversing Kubernetes, Docker and related technologies
-- 🌱 looking forward to become a good Software Engineer
+- 🌱 looking forward to become a better Software Engineer
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: shoot an email at "raihankhanraka@gmail.com"
-- ⚡ Fun fact: I love to watch anime
+- ⚡ Fun fact: love to watch anime
 
  <a href="https://github.com/ellerbrock/open-source-badges/">
         <img width=9% height=17 alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=raihankhan.raihankhan" />
