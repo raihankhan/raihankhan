@@ -43,10 +43,10 @@
     </a>
     <br>
     <a href="https://github.com/raihankhan/">
-        <img width=7% height=20 alt="Elasticsearch" src="https://badges.aleen42.com/src/elasticsearch.svg" />
+        <img width=9% height=20 alt="Elasticsearch" src="https://badges.aleen42.com/src/elasticsearch.svg" />
     </a>
     <a href="https://github.com/raihankhan/">
-        <img width=7% height=20 alt="Kibana" src="https://badges.aleen42.com/src/kibana.svg" />
+        <img width=9% height=20 alt="Kibana" src="https://badges.aleen42.com/src/kibana.svg" />
     </a>
 </p>
 
