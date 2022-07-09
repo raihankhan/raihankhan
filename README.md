@@ -33,13 +33,13 @@
 
 <p align="left">
     <a href="https://github.com/raihankhan/">
-        <img width=7% height=30 alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+        <img width=9% height=30 alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
     </a>
     <a href="https://github.com/raihankhan/">
-        <img width=7% height=30 alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+        <img width=9% height=30 alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
     </a>
      <a href="https://github.com/raihankhan/">
-        <img width=7% height=30 alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img width=9% height=30 alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     </a>
     <br>
     <a href="https://github.com/raihankhan/">
