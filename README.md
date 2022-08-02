@@ -2,7 +2,7 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Raihan!)](https://git.io/typing-svg)
    
-- :computer: Currently working with Elasticsearch, Opensearch and Go
+- :computer: Currently working with Kafka, Elasticsearch, Opensearch and Go
 - 🔭 Traversing Kubernetes, Docker and related technologies
 - 🌱 looking forward to become a better Software Engineer
 - 🥅 2022 Goals: Contribute more to Open Source projects
