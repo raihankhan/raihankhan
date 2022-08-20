@@ -53,14 +53,6 @@
     </a>
 </p>
 
-#### Recent Activity
-
-<p><b> &#9749; Latest Medium Blogs</b></p>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raihankhanraka/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raihankhanraka/0" alt="Latest medium article">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raihankhanraka/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raihankhanraka/1" alt="Latest medium article"> </a>
-
 <h3 align="left">Find Me On:</h3> 
 <p align="left">
     <a href="https://raihankhan.github.io/">
