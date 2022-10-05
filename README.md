@@ -20,7 +20,7 @@
 
 <p>
     <a href="https://github.com/raihankhan?tab=repositories">
-        <img alt="Raihan's GitHub stats"  width="49%" src="https://github-readme-stats.vercel.app/api?username=raihankhan&show_icons=true&theme=cobalt">
+        <img alt="Raihan's GitHub stats"  width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raihankhan&show_icons=true&theme=cobalt">
     </a>
    <a  href="https://github.com/raihankhan?tab=repositories">
       <img alt="Raihan's GitHub stats"  width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raihankhan&theme=dark">
