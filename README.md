@@ -20,12 +20,11 @@
 
 <p>
     <a href="https://github.com/raihankhan?tab=repositories">
-        <img alt="Raihan's GitHub stats"  width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=raihankhan&show_icons=true&theme=cobalt">
+        <img alt="Raihan's GitHub stats"  width="49%" src="https://github-readme-stats.vercel.app/api?username=raihankhan&count_private=true&show_icons=true&theme=github_dark">
     </a>
    <a  href="https://github.com/raihankhan?tab=repositories">
-      <img alt="Raihan's GitHub stats"  width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raihankhan&theme=dark">
+      <img alt="Raihan's GitHub stats"  width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=raihankhan&theme=github-dark-blue&fire=DD2727">
    </a>
- 
    
 </p>
 
