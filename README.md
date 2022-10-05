@@ -2,11 +2,11 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Raihan!)](https://git.io/typing-svg)
    
-- :computer: Tech Stack: Kafka, Elasticsearch, Opensearch, Kubernetes, Docker
-- 🔭 Language: Go, C++, Python
+- :computer: Currently working with: <b>Kafka</b>, <b>Elasticsearch</b>, <b>Opensearch</b>, <b>Kubernetes</b>, <b>Docker</b>
+- 🔭 Language: <b>Go</b>, <b>C++</b>
 - 🌱 looking forward to become a better Software Engineer
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: shoot an email at "raihankhanraka@gmail.com"
+- 📫 How to reach me: shoot an email at <b>raihankhanraka@gmail.com</b>
 
  <a href="https://github.com/ellerbrock/open-source-badges/">
         <img width=""auto"  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=raihankhan.raihankhan" />
