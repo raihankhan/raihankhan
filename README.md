@@ -10,17 +10,17 @@
 - ⚡ Fun fact: love to watch anime
 
  <a href="https://github.com/ellerbrock/open-source-badges/">
-        <img width=9% height=17 alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=raihankhan.raihankhan" />
+        <img width=""auto"  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=raihankhan.raihankhan" />
  </a>
   <a href="https://visitor-badge.laobi.icu/">
-        <img width=9% height=17 alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
+        <img width="auto"  alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
  </a>
 
 ### Stats
 
 <p>
     <a href="https://github.com/raihankhan?tab=repositories">
-        <img alt="Raihan's GitHub stats"  hight="auto" src="https://github-readme-stats.vercel.app/api?username=raihankhan&count_private=true&show_icons=true&theme=github_dark">
+        <img alt="Raihan's GitHub stats"  width="auto" src="https://github-readme-stats.vercel.app/api?username=raihankhan&count_private=true&show_icons=true&theme=github_dark">
     </a>
    <a  href="https://github.com/raihankhan?tab=repositories">
       <img alt="Raihan's GitHub stats"  width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=raihankhan&theme=github-dark-blue&fire=DD2727">
