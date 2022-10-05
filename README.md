@@ -18,6 +18,9 @@
 
 ### Stats
 
+<head>
+  <link rel="stylesheet" href="raihankhan.css">
+</head>
 
 <div class="row">
   <div class="column">
