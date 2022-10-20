@@ -1,12 +1,12 @@
 
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Raihan!)](https://git.io/typing-svg)
-   
-- :computer: Currently working with: <b>Kafka</b>, <b>Elasticsearch</b>, <b>Opensearch</b>, <b>Kubernetes</b>, <b>Docker</b>
-- 🔭 Language: <b>Go</b>, <b>C++</b>
-- 🌱 looking forward to become a better Software Engineer
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: shoot an email at <b>raihankhanraka@gmail.com</b>
+
+### A little about me...
+
+* **Technical focus** - Linux :penguin:  Kubernetes :snowflake:  Docker :whale: Kafka :zap:  Go :star: ELK :gem:
+* **What I do for work** - I work at AppsCode Inc. as a Software Engineer in [KubeDB](https://kubedb.com/)  . I focus on developing Kubernetes Native softwares for databases on cloud :cloud:
+* **How to reach me** 📫 - shoot an email at <b>raihankhanraka@gmail.com</b>
 
  <a href="https://github.com/ellerbrock/open-source-badges/">
         <img width=""auto"  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=raihankhan.raihankhan" />
