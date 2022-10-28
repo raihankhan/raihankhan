@@ -2,10 +2,8 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Raihan!)](https://git.io/typing-svg)
 
-### A little about me...
-
+* Software Engineer at AppsCode Inc. developing Kubernetes Native softwares ([KubeDB](https://kubedb.com/)) for databases on cloud :cloud:
 * **Technical focus** - Linux :penguin:  Kubernetes :snowflake:  Docker :whale: Kafka :zap:  Go :star: ELK :gem:
-* **What I do for work** - I work at AppsCode Inc. as a Software Engineer in [KubeDB](https://kubedb.com/)  . I focus on developing Kubernetes Native softwares for databases on cloud :cloud:
 * **How to reach me** 📫 - shoot an email at <b>raihankhanraka@gmail.com</b>
 
  <a href="https://github.com/ellerbrock/open-source-badges/">
