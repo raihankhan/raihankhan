@@ -23,7 +23,9 @@
       <img alt="Raihan's GitHub stats"  width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=raihankhan&theme=github-dark-blue&fire=DD2727">
    </a>
    
-   [![Raihan's github activity graph](https://activity-graph.herokuapp.com/graph?username=raihankhan&bg_color=000000&color=bdbdbd&line=2997ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   [![](https://activity-graph.herokuapp.com/graph?username=raihankhan&bg_color=000000&color=bdbdbd&line=2997ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   
+   [![Raihan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=raihankhan&bg_color=000000&color=c87414&line=0a9948&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
 </p>
 
