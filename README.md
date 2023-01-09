@@ -52,6 +52,11 @@
         <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />
     </a>
 </p>
+                                                                                                                          
+                                                                                                                         <img data-gopher src="https://bsdavidson.github.io/animated-gopher/src/gopher.svg">
+                                                                                                                         <script src="https://bsdavidson.github.io/animated-gopher/dist/gopher.min.js"></script>
+
+
 
 <h3 align="left">Find Me On:</h3> 
 <p align="left">
