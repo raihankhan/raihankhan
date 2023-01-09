@@ -53,8 +53,6 @@
     </a>
 </p>
                                                                                                                           
-                                                                                                                         <img data-gopher src="https://bsdavidson.github.io/animated-gopher/src/gopher.svg">
-                                                                                                                         <script src="https://bsdavidson.github.io/animated-gopher/dist/gopher.min.js"></script>
 
 
 
