@@ -35,21 +35,30 @@
     <a href="https://github.com/raihankhan/">
         <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
     </a>
-     <a href="https://github.com/raihankhan/">
+    <a href="https://github.com/raihankhan/">
         <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     </a>
     <a href="https://github.com/raihankhan/">
         <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
     </a>
-    <br>
+    <a href="https://github.com/raihankhan/">
+        <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000"/>
+    </a>
+    <a href="https://github.com/raihankhan/">
+        <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"/>
+    </a>
+    <br>                                                                                                                                       
     <a href="https://github.com/raihankhan/">
         <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />
     </a>
-     <a href="https://github.com/raihankhan/">
+    <a href="https://github.com/raihankhan/">
         <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
     </a>
     <a href="https://github.com/raihankhan/">
         <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />
+    </a>
+    <a href="https://github.com/raihankhan/">
+        <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" />
     </a>
 </p>
                                                                                                                           
