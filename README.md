@@ -2,8 +2,9 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Raihan!)](https://git.io/typing-svg)
 
-* Software Engineer at AppsCode Inc. developing Kubernetes Native softwares ([KubeDB](https://kubedb.com/)) for databases on cloud :cloud:
-* **Technical focus** - Linux :penguin:  Kubernetes :snowflake:  Docker :whale: Kafka :zap:  Go :star: ELK :gem:
+* Software Engineer at AppsCode Inc.
+* Developing Kubernetes Native softwares ([KubeDB](https://kubedb.com/)) for databases on cloud :cloud:
+* **Technical focus** - Linux :penguin:  Kubernetes :snowflake:  Docker :whale: Kafka :zap:  Go :star: ELK :gem: EFK :anchor:
 * **How to reach me** 📫 - shoot an email at <b>raihankhanraka@gmail.com</b>
 
  <a href="https://github.com/ellerbrock/open-source-badges/">
@@ -57,6 +58,9 @@
     <a href="https://github.com/raihankhan/">
         <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" />
     </a>
+       <a href="https://github.com/raihankhan/">
+        <img alt="Helm" src="https://img.shields.io/badge/Fluentd-599CD0?style=for-the-badge&logo=fluentd&logoColor=white&labelColor=599CD0" />
+    </a>
 </p>
                                                                                                                           
 
@@ -73,7 +77,10 @@
         <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
     </a>
     <a href="https://www.hackerrank.com/raihankhanraka">
-        <img  alt="visitors" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+        <img  alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+    </a>
+    <a href="https://stackoverflow.com/users/7360615/raihan-khan">
+        <img  alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
     </a>
 </p>
 
