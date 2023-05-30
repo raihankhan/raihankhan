@@ -5,6 +5,7 @@
 * Software Engineer at AppsCode Inc.
 * Developing Kubernetes Native softwares ([KubeDB](https://kubedb.com/)) for databases on cloud :cloud:
 * **Technical focus** - Linux :penguin:  Kubernetes :snowflake:  Docker :whale: Kafka :zap:  Go :star: ELK :gem: EFK :anchor:
+* Jump to [My Personal Blog & Portfolio](https://raihankhan.github.io/)
 * **How to reach me** 📫 - shoot an email at <b>raihankhanraka@gmail.com</b>
 
  <a href="https://github.com/ellerbrock/open-source-badges/">
