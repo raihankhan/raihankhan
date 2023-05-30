@@ -4,7 +4,7 @@
 
 * Software Engineer at AppsCode Inc.
 * Developing Kubernetes Native softwares ([KubeDB](https://kubedb.com/)) for databases on cloud :cloud:
-* **Technical focus** - Linux :penguin:  Kubernetes :snowflake:  Docker :whale: Kafka :zap:  Go :star: ELK :gem: EFK :anchor:
+* **Technical focus** - Go 🐻‍❄️ Kubernetes :snowflake:  Docker :whale: Prometheus 🔦 Grafana 📋 Kafka :zap: ELK :gem: EFK :anchor: Linux :penguin:
 * Jump to [My Personal Blog & Portfolio](https://raihankhan.github.io/)
 * **How to reach me** 📫 - shoot an email at <b>raihankhanraka@gmail.com</b>
 
