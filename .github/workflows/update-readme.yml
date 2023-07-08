@@ -42,10 +42,6 @@ jobs:
           plugin_lines_history_limit: 8
           plugin_lines_repositories_limit: 0
           plugin_lines_sections: base
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_repositories: yes
-          plugin_notable_types: commit
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
