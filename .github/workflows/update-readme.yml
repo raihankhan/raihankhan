@@ -56,4 +56,3 @@ jobs:
           plugin_topics_limit: 5
           plugin_topics_mode: starred
           plugin_topics_sort: starred
-          repositories_affiliations: 
