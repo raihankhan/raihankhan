@@ -1,10 +1,5 @@
+![](/gif/terminal.gif)
 
-
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Raihan!)](https://git.io/typing-svg)
-
-* Software Engineer at AppsCode Inc.
-* Developing Kubernetes Native softwares ([KubeDB](https://kubedb.com/)) for databases on cloud :cloud:
-* **Technical focus** - Go 🐻‍❄️ Kubernetes :snowflake:  Docker :whale: Prometheus 🔦 Grafana 📋 Kafka :zap: ELK :gem: EFK :anchor: Linux :penguin:
 * Jump to [My Personal Blog & Portfolio](https://raihankhan.github.io/)
 * **How to reach me** 📫 - shoot an email at <b>raihankhanraka@gmail.com</b>
 
