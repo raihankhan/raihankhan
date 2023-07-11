@@ -34,10 +34,10 @@ jobs:
           config_octicon: yes
           config_timezone: Asia/Dhaka
           plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: raihan_khan
+          # plugin_leetcode_limit_recent: 2
+          # plugin_leetcode_limit_skills: 10
+          # plugin_leetcode_sections: solved
+          # plugin_leetcode_user: raihan_khan
           plugin_lines: yes
           plugin_lines_history_limit: 8
           plugin_lines_repositories_limit: 0
