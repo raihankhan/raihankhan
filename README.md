@@ -1,5 +1,5 @@
 Hi,
-I am a Golang Backend Engineer who swims with Kubernetes and rows with cools DevOps tools!
+I am a Golang  Backend Engineer who swims with Kubernetes and rows with cool DevOps tools!
 
 > Experienced in crafting scalable, resilient backend systems using Golang and Kubernetes. Proficient in building custom controllers, operators, and CRDs for database management. Passionate about CI/CD, automation, and performance optimization. Strong problem-solving skills and a competitive programming background.
 
