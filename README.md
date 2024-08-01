@@ -1,7 +1,9 @@
-![](/gif/terminal.gif)
+Hi,
+I am a Golang Backend Engineer who swims with Kubernetes and rows with cools DevOps tools!
+
+> Experienced in crafting scalable, resilient backend systems using Golang and Kubernetes. Proficient in building custom controllers, operators, and CRDs for database management. Passionate about CI/CD, automation, and performance optimization. Strong problem-solving skills and a competitive programming background.
 
 <img src="github-metrics.svg" alt="Metrics" width="100%">
-
 
 ### Stats
 
@@ -9,7 +11,6 @@
     <a href="https://github.com/raihankhan?tab=repositories">
         <img alt="Raihan's GitHub stats"  width="auto" src="https://github-readme-stats.vercel.app/api?username=raihankhan&count_private=true&show_icons=true&theme=github_dark">
     </a>
-   
 </p>
 
 <h3 align="left">Find Me On:</h3> 
@@ -29,6 +30,10 @@
         <img  alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
     </a>
 </p>
+
+### Gists
+
+[![gists-readme](https://gists-readme.yizack.com/api/pin?user=&id=d8ba36175dba10bc139f488d5c7c1f04&theme=dark)](https://gist.github.com/raihankhan/d8ba36175dba10bc139f488d5c7c1f04)
 
 <h3 align="left">Connect with me:</h3> 
 
