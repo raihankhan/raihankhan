@@ -6,7 +6,9 @@ on:
   schedule:
     - cron: '0 0 * * 6'
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  push:
+    branches:
+      - "master"
 
 jobs:
   github-metrics:

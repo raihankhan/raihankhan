@@ -9,13 +9,13 @@ I am a Golang  Backend Engineer who swims with Kubernetes and rows with cool Dev
 
 <p>
     <a href="https://github.com/raihankhan?tab=repositories">
-        <img alt="Raihan's GitHub stats"  width="auto" src="https://github-readme-stats.vercel.app/api?username=raihankhan&count_private=true&show_icons=true&theme=github_dark">
+        <img alt="Raihan's GitHub stats"  width="auto" src=./stats/raihankhan-github-stats.svg>
     </a>
 </p>
 
 ### Gists
 
-[![gists-readme](https://gists-readme.yizack.com/api/pin?user=&id=d8ba36175dba10bc139f488d5c7c1f04&theme=dark)](https://gist.github.com/raihankhan/d8ba36175dba10bc139f488d5c7c1f04)
+[![gists-readme](gists/publisher-consumer-pattern.svg)](https://gist.github.com/raihankhan/d8ba36175dba10bc139f488d5c7c1f04)
 
 
 <h3 align="left">Find Me On:</h3> 
