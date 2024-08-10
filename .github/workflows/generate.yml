@@ -31,6 +31,9 @@ jobs:
         run: go run generator.go
 
       - name: Prepare git
+        env:
+          GITHUB_USER: raihankhan
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         run: |
           set -x
           git config --global user.name "raihankhan"
@@ -39,36 +42,37 @@ jobs:
       -
         name: Check for Changes
         run: |
-          git add .
+          git add --all
           if [[ $(git status --porcelain) ]]; then
-            echo "Changes detected, proceeding to next stage"
-          else
-            echo "No changes detected, exiting"
-            exit 1
+            git commit -s -a -m "update stats and gists $(date --rfc-3339=date)"
+            git fetch origin
+            # https://git-scm.com/docs/merge-strategies
+            git pull --rebase -s ours origin master
+            git push origin HEAD
           fi
 
-      -
-        name: Create Branch
-        run: git checkout -b generated-files
+      # -
+      #   name: Create Branch
+      #   run: git checkout -b generated-files
 
-      -
-        name: Commit and Push
-        run: |
-          git add .
-          git commit -m "Generated files"
-          git push origin generated-files
+      # -
+      #   name: Commit and Push
+      #   run: |
+      #     git add .
+      #     git commit -m "Generated files"
+      #     git push origin generated-files
           
-      -
-        name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          title: Generated stats and gists
-          body: This pull request was automatically generated.
-          head: generated-files
-          base: master
-          commit-message: Merge pull request #${{ github.event.pull_request.number }} from generated-files to main
-          delete-branch: true
+      # -
+      #   name: Create Pull Request
+      #   uses: peter-evans/create-pull-request@v4
+      #   with:
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     title: Generated stats and gists
+      #     body: This pull request was automatically generated.
+      #     head: generated-files
+      #     base: master
+      #     commit-message: Merge pull request #${{ github.event.pull_request.number }} from generated-files to main
+      #     delete-branch: true
 
         
 
