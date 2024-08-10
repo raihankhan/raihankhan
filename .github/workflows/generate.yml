@@ -54,7 +54,7 @@ jobs:
         if: ${{ steps.Commit_and_Push.outcome == 'success' }}
         uses: peter-evans/create-pull-request@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           title: Generated stats and gists
           body: This pull request was automatically generated.
           head: generated-files
