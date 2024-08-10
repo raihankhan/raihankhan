@@ -34,7 +34,12 @@ jobs:
         name: Check for Changes
         run: |
           git add .
-          git diff --exit-code
+          if [[ $(git status --porcelain) ]]; then
+            echo "Changes detected, proceeding to next stage"
+          else
+            echo "No changes detected, exiting"
+            exit 1
+          fi
 
       -
         name: Create Branch
