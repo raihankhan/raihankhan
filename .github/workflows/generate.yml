@@ -30,6 +30,12 @@ jobs:
         name: Run Generator
         run: go run generator.go
 
+      - name: Prepare git
+        run: |
+          set -x
+          git config --global user.name "raihankhan"
+          git config --global user.email "raihankhanraka@gmail.com"
+
       -
         name: Check for Changes
         run: |
