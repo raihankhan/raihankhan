@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Raihan Khan's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 99, Total Commits in 2024 : 345, Total PRs: 383, Total Issues: 33, Contributed to (last year): 54</desc>
+        <desc id="descId">Total Stars Earned: 99, Total Commits in 2024 : 339, Total PRs: 388, Total Issues: 34, Contributed to (last year): 54</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 55.62624639009019;
+        stroke-dashoffset: 55.64602404011567;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >345</text>
+      >339</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >383</text>
+      >388</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >33</text>
+      >34</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
