@@ -1,7 +1,11 @@
 Hi,
-I am a Golang  Backend Engineer who swims with Kubernetes and rows with cool DevOps stuffs!
+I am a DevOps Engineer who swims with Kubernetes and rows with cool DevOps stuffs!
 
-> Experienced in crafting scalable, resilient backend systems using Golang. Proficient in building custom controllers, operators, and CRDs for Database management on Kubernetes. Passionate about CI/CD, automation, and performance optimization. Got problem-solving skills and a competitive programming background.
+> Experienced in crafting scalable, resilient backend systems and workflows using Golang. Proficient in building custom controllers, operators, and CRDs for Database management on Kubernetes. Passionate about CI/CD, automation, and performance optimization. Got problem-solving skills and a competitive programming background.
+
+Major Production Grade Projects where I have significant contributions:
+- KubeDB [Managed Database solution for Kubernetes]
+- Internal Developer Platform(IDP)
 
 <img src="github-metrics.svg" alt="Metrics" width="100%">
 
