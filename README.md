@@ -5,7 +5,7 @@ I am a DevOps Engineer who swims with Kubernetes and rows with cool DevOps stuff
 
 Major Production Grade Projects where I have significant contributions:
 - KubeDB [Managed Database solution for Kubernetes]
-- Internal Developer Platform(IDP)
+- Makro Pro Internal Developer Platform(IDP)
 
 <img src="github-metrics.svg" alt="Metrics" width="100%">
 
