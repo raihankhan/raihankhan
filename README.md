@@ -1,9 +1,9 @@
 Hi,
-I am a DevOps Engineer who swims with Kubernetes and rows with cool DevOps stuffs!
+I am a Senior Platform Engineer who swims with Kubernetes and rows with cool DevOps stuffs!
 
 > Experienced in crafting scalable, resilient backend systems and workflows using Golang. Proficient in building custom controllers, operators, and CRDs for Database management on Kubernetes. Passionate about CI/CD, automation, and performance optimization. Got problem-solving skills and a competitive programming background.
 
-Major Production Grade Projects where I have significant contributions:
+Major Production Grade Projects:
 - KubeDB [Managed Database solution for Kubernetes]
 - Makro Pro Internal Developer Platform(IDP)
 
