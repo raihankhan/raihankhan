@@ -1,26 +1,31 @@
-Hi,
-I am a Senior Platform Engineer who swims with Kubernetes and rows with cool DevOps stuffs!
+# Senior Platform Engineer
 
-> Experienced in crafting scalable, resilient backend systems and workflows using Golang. Proficient in building custom controllers, operators, and CRDs for Database management on Kubernetes. Passionate about CI/CD, automation, and performance optimization. Got problem-solving skills and a competitive programming background.
+Hi! I'm a Senior Platform Engineer at **@Makropro**, building cloud-native platforms, internal developer platforms (IDPs), and agent-first automation that helps engineering teams ship faster and operate reliably at scale.
 
-Major Production Grade Projects:
-- KubeDB [Managed Database solution for Kubernetes]
-- Makro Pro Internal Developer Platform(IDP)
+I work at the intersection of **Platform Engineering, Distributed Systems, Cloud Infrastructure, and AI-driven Engineering**. My focus is turning complex infrastructure and operational challenges into scalable, self-service platforms and intelligent automation.
 
-<img src="github-metrics.svg" alt="Metrics" width="100%">
+### What I Build
 
-### Stats
+- **Platform Engineering & IDPs:** Self-service developer platforms, golden paths, service provisioning, and developer experience.
+- **Kubernetes & Cloud-Native Systems:** Custom controllers, operators, CRDs, and production-grade workload orchestration.
+- **GitOps & Infrastructure Automation:** Declarative infrastructure, continuous reconciliation, and automated delivery workflows.
+- **Backend & Distributed Systems:** Golang services, workflow orchestration, event-driven architectures, and resilient systems.
+- **Agent-First Engineering:** AI-powered developer tooling, automated code analysis, production diagnostics, and root cause investigation.
+- **Forward Deployed Engineering (FDE):** Bridging software engineering and real-world customer problems by building, integrating, and deploying solutions where they create the most impact.
 
-<p>
-    <a href="https://github.com/raihankhan?tab=repositories">
-        <img alt="Raihan's GitHub stats"  width="auto" src=./stats/raihankhan-github-stats.svg>
-    </a>
-</p>
+### Production-Grade Projects
 
-### Gists
+- **KubeDB**: Kubernetes-native database lifecycle management and automation.
+- **Makro Pro Internal Developer Platform**: Building self-service infrastructure and GitOps-driven workflows across cloud environments.
+- **Agentic Developer Tooling**: Exploring AI agents for code intelligence, engineering automation, and production troubleshooting.
 
-[![gists-readme](gists/publisher-consumer-pattern.svg)](https://gist.github.com/raihankhan/d8ba36175dba10bc139f488d5c7c1f04)
+### My Engineering Philosophy
 
+I believe the next generation of platforms will be **agent-first, self-service, and policy-driven**. The goal isn't to automate isolated tasks; it's to eliminate operational friction, shorten feedback loops, and make reliable engineering the default.
+
+I'm particularly interested in the evolution from Platform Engineering to **Forward Deployed Engineering**, where deep technical expertise meets real-world problems, rapid iteration, and measurable outcomes.
+
+I build systems, solve problems, and automate the path between an idea and production.
 
 <h3 align="left">Find Me On:</h3> 
 <p align="left">
@@ -52,6 +57,22 @@ Major Production Grade Projects:
 </p>
 
 📫 - shoot an email at <b>raihankhanraka@gmail.com</b>
+
+---
+
+<img src="github-metrics.svg" alt="Metrics" width="100%">
+
+### Stats
+
+<p>
+    <a href="https://github.com/raihankhan?tab=repositories">
+        <img alt="Raihan's GitHub stats"  width="auto" src=./stats/raihankhan-github-stats.svg>
+    </a>
+</p>
+
+### Gists
+
+[![gists-readme](gists/publisher-consumer-pattern.svg)](https://gist.github.com/raihankhan/d8ba36175dba10bc139f488d5c7c1f04)
 
  <a href="https://github.com/ellerbrock/open-source-badges/">
         <img width=""auto"  alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=raihankhan.raihankhan" />
