@@ -112,8 +112,9 @@ I want to bridge deep systems engineering with real-world customer problems, wor
 🚀 Impacting projects in Production:
 
 <details open>
-<summary><b>☸️ [KubeDB](https://kubedb.com/) · Kubernetes-Native Database Automation</b></summary>
-
+<summary>
+  <b>☸️ <a href="https://kubedb.com/">KubeDB</a> · Kubernetes-Native Database Automation</b>
+</summary>
 Building and working with Kubernetes-native database lifecycle management, automation, and cloud-native infrastructure.
 
 </details>
