@@ -109,7 +109,7 @@ I want to bridge deep systems engineering with real-world customer problems, wor
 </tr>
 </table>
 
-🚀 Production-Grade Engineering
+🚀 Impacting projects in Production:
 
 <details open>
 <summary><b>☸️ KubeDB · Kubernetes-Native Database Automation</b></summary>
